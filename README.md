@@ -1,0 +1,1 @@
+# xmrig-6.3.5-linux-x64-minergate
